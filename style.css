@@ -1,0 +1,64 @@
+body{ 
+    background-color:  hsl(257, 40%, 49%);
+    color: aliceblue;
+    width: px;
+    background-image: url(images/bg-desktop.svg);
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 25px;
+}
+.text{
+    width: 500px;
+    margin-top: 10rem;
+    margin-left: 50rem;
+}
+.text button{
+    width: 150px;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+.app{
+width: 720px;
+position:absolute;
+float: left;
+}
+footer{
+   float:right;
+   display: flex;
+   justify-content: space-between;
+   margin-top:70px;
+   }
+.facebook{
+    border:solid;
+    border-radius: 100% 100% / 100% 90%;
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.twitter{
+    border:solid;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    margin-right:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.instagram{
+    border:solid;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    margin-right:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
